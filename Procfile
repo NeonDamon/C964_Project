@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser c964_notebook.ipynb
+web: voila --Voila.ip=0.0.0.0 --port=$PORT --no-browser c964_notebook.ipynb
